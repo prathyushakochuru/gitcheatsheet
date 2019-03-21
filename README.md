@@ -1,1 +1,1 @@
-# gitchestsheet
+# gitcheatsheet
